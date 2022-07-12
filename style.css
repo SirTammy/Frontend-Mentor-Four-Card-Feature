@@ -9,6 +9,7 @@
 body{
     min-height: 100vh;
     font-size: 15px;
+    background-color: hsl(0, 0%, 98%);
 }
 .container{
     max-width: 80%;
@@ -32,9 +33,11 @@ body{
 h1.first{
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    font-size: 35px;
 }
 h1.second{
     color: hsl(234, 12%, 34%);
+    font-size: 35px;
 }
 .header p{
     color: hsl(229, 6%, 66%);
